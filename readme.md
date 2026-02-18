@@ -12,90 +12,61 @@ A szövegeket első szám első személyben írjátok meg, mintha naplót vezetn
 
 A szövegek legyenek rövidek, lényegre törők, saját magad fogalmazd meg, egyes szám első személyben! Forrásként használd a tankönyvedet!
 
-Macié:
-        ### 1. Jellemző öltözködés
 
-        - Mit viselek?-->
+### 1. Jellemző öltözködés
 
+- Mit viselek?
+- Miből készül a ruhám?
+- Mit árul el rólam a viseletem?
 
-        - Miből készül a ruhám?-->
+###  2. Környezet
+- Milyen házban élek?
+- Van udvarom? Földem? Műhelyem? Váram?
+- Hogyan néz ki a település (falu, város, birtok, kolostor)?
 
+### 3. Életmód
 
-        - Mit árul el rólam a viseletem?-->
-
-        ###  2. Környezet
-
-        - Milyen házban élek?-->
-
-
-        - Van udvarom? Földem? Műhelyem? Váram?-->
-
-
-        - Hogyan néz ki a település (falu, város, birtok, kolostor)?-->
-
-        ### 3. Életmód
-
-        - Hogyan telik egy hétköznapom?-->
+- Hogyan telik egy hétköznapom?
+- Van-e különbség a hétköznap és az ünnep között?
+- Mivel töltöm a szabadidőmet?
 
 
-        - Van-e különbség a hétköznap és az ünnep között?-->
+### 4. Feladataim
 
-
-        - Mivel töltöm a szabadidőmet?-->
-
-Zalán:
-        ### 4. Feladataim
-
-        - Milyen munkát végzek?-->
-
-
-        - Kinek tartozom engedelmességgel?-->
-
-
-        - Ki függ tőlem?-->
+- Milyen munkát végzek?
+- Kinek tartozom engedelmességgel?
+- Ki függ tőlem?
 
 
 
-        ### 5. Ünnepek
+### 5. Ünnepek
 
-        - Milyen ünnepekre készülünk?-->
-
-
-        - Hogyan zajlik egy ünnep?-->
-
-
-        - Miért fontos számunkra?-->
+- Milyen ünnepekre készülünk?
+- Hogyan zajlik egy ünnep?
+- Miért fontos számunkra?
 
 
 
-Barnáé:
-        ### 6. Kötelezettségek és félelmek
 
-        - Milyen adókat, szolgáltatásokat kell teljesítenem?-->
+### 6. Kötelezettségek és félelmek
 
-
-        - Mitől félek? (háború, éhínség, járvány, büntetés stb.)-->
+- Milyen adókat, szolgáltatásokat kell teljesítenem?
+- Mitől félek? (háború, éhínség, járvány, büntetés stb.)
 
 
 
-        ### 7. Viselkedés és emberi kapcsolatok
+### 7. Viselkedés és emberi kapcsolatok
 
-        - Hogyan viselkedünk egymással?-->
-
-
-        - Milyen alá- és fölérendeltségi viszonyok vannak?-->
-
-
-        - Mit jelent a becsület, hűség, vallás szerepe?-->
+- Hogyan viselkedünk egymással?
+- Milyen alá- és fölérendeltségi viszonyok vannak?
+- Mit jelent a becsület, hűség, vallás szerepe?
 
 
 
-        ### 8. Szabályok és hagyományok
+### 8. Szabályok és hagyományok
 
-        - Milyen írott vagy íratlan szabályok szerint élünk?-->
-
-
-        - Milyen szokásaink vannak?-->
+- Milyen írott vagy íratlan szabályok szerint élünk?
+- Milyen szokásaink vannak?
 
         
 
