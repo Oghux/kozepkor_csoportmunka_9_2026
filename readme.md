@@ -2,67 +2,102 @@
 
 ## Projekt célja
 
+NEMESEKRŐL IRUNK!!
+
 A középkor világának bemutatása csoportmunkában, egy egyszerű, statikus weblap segítségével. A cél nem a teljes tananyag lefedése, hanem a korszak jellegzetességeinek érzékletes, kreatív és történelmileg hiteles bemutatása.
 
 A szövegeket első szám első személyben írjátok meg, mintha naplót vezetnétek vagy blogot (vlogot) készítenétek.
-
-## Választható témák
-
-1. Jobbágy voltam a középkorban
-1. Polgár voltam a középkorban
-1. Egyházi személy voltam a középkorban
-1. Nemesúr voltam a középkorban
-
 
 ## Kötelező tartalmi elemek 
 
 A szövegek legyenek rövidek, lényegre törők, saját magad fogalmazd meg, egyes szám első személyben! Forrásként használd a tankönyvedet!
 
-### 1. Jellemző öltözködés
+Macié:
+        ### 1. Jellemző öltözködés
 
-- Mit viselek?
-- Miből készül a ruhám?
-- Mit árul el rólam a viseletem?
+        - Mit viselek?-->
 
-###  2. Környezet
 
-- Milyen házban élek?
-- Van udvarom? Földem? Műhelyem? Váram?
-- Hogyan néz ki a település (falu, város, birtok, kolostor)?
+        - Miből készül a ruhám?-->
 
-### 3. Életmód
 
-- Hogyan telik egy hétköznapom?
-- Van-e különbség a hétköznap és az ünnep között?
-- Mivel töltöm a szabadidőmet?
+        - Mit árul el rólam a viseletem?-->
 
-### 4. Feladataim
+        ###  2. Környezet
 
-- Milyen munkát végzek?
-- Kinek tartozom engedelmességgel?
-- Ki függ tőlem?
+        - Milyen házban élek?-->
 
-### 5. Ünnepek
 
-- Milyen ünnepekre készülünk?
-- Hogyan zajlik egy ünnep?
-- Miért fontos számunkra?
+        - Van udvarom? Földem? Műhelyem? Váram?-->
 
-### 6. Kötelezettségek és félelmek
 
-- Milyen adókat, szolgáltatásokat kell teljesítenem?
-- Mitől félek? (háború, éhínség, járvány, büntetés stb.)
+        - Hogyan néz ki a település (falu, város, birtok, kolostor)?-->
 
-### 7. Viselkedés és emberi kapcsolatok
+        ### 3. Életmód
 
-- Hogyan viselkedünk egymással?
-- Milyen alá- és fölérendeltségi viszonyok vannak?
-- Mit jelent a becsület, hűség, vallás szerepe?
+        - Hogyan telik egy hétköznapom?-->
 
-### 8. Szabályok és hagyományok
 
-- Milyen írott vagy íratlan szabályok szerint élünk?
-- Milyen szokásaink vannak?
+        - Van-e különbség a hétköznap és az ünnep között?-->
+
+
+        - Mivel töltöm a szabadidőmet?-->
+
+Zalán:
+        ### 4. Feladataim
+
+        - Milyen munkát végzek?-->
+
+
+        - Kinek tartozom engedelmességgel?-->
+
+
+        - Ki függ tőlem?-->
+
+
+
+        ### 5. Ünnepek
+
+        - Milyen ünnepekre készülünk?-->
+
+
+        - Hogyan zajlik egy ünnep?-->
+
+
+        - Miért fontos számunkra?-->
+
+
+
+Barnáé:
+        ### 6. Kötelezettségek és félelmek
+
+        - Milyen adókat, szolgáltatásokat kell teljesítenem?-->
+
+
+        - Mitől félek? (háború, éhínség, járvány, büntetés stb.)-->
+
+
+
+        ### 7. Viselkedés és emberi kapcsolatok
+
+        - Hogyan viselkedünk egymással?-->
+
+
+        - Milyen alá- és fölérendeltségi viszonyok vannak?-->
+
+
+        - Mit jelent a becsület, hűség, vallás szerepe?-->
+
+
+
+        ### 8. Szabályok és hagyományok
+
+        - Milyen írott vagy íratlan szabályok szerint élünk?-->
+
+
+        - Milyen szokásaink vannak?-->
+
+        
 
 ## Fogalomtár
 
