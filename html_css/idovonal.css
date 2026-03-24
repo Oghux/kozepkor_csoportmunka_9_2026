@@ -1,14 +1,26 @@
-.body{
-    background-color: antiquewhite;
+body{
+    background-color: burlywood;
 }
 
-@media (max-width: 600px) {
-    .inner-box {
-        flex-direction: column;
-    }
+main {
 }
 
-.datum {
-    text-decoration: none;
-    color: black;
+img {
+    margin: auto;
+    border: 5px solid black;
+    box-sizing: border-box ;
+}
+
+.benne{
+  border: 2px solid black;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  max-width: 500px;
+}
+
+@media screen and (max-width: 600px;){
+  .tarolo{
+    grid-template-columns: 1fr;
+  }
 }
