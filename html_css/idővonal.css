@@ -106,3 +106,8 @@ main::before {
         flex-direction: column;
     }
 }
+
+.datum {
+    text-decoration: none;
+    color: black;
+}
