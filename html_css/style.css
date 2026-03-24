@@ -6,6 +6,27 @@ body {
     text-align: center;
 }
 
+/* A linkek közötti tér */
+a {
+  margin-right: 20pt;
+}
+
+/* A két doboz egymás mellé rendezése */
+.container {
+  display: grid;
+  gap: 20pt;
+  grid-template-columns: 1fr 1fr; /* a dobozok közötti tér */
+}
+
+/* Doboz stílus (opcionális) */
+.box {
+  padding: 10pt;
+  border: 1px solid #aaa;
+  background: #e6d8bd ;
+  border-radius: 15px;
+}
+
+
 .tarolo {
     max-width: 1000px;
     width: 90%;
