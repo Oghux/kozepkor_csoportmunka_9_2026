@@ -38,11 +38,11 @@ a {
   border-radius: 15px;
 }
 
-h1{
+h1 {
   text-align: center;
 }
 
-.container{
+.container {
   text-align: center;
 }
 
@@ -50,8 +50,8 @@ h1{
   .bennetarolo {
     grid-template-columns: 1fr;
   }
+
   .container {
     grid-template-columns: 1fr;
   }
 }
-

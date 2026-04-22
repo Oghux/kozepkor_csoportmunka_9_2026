@@ -1,20 +1,18 @@
-body{
-    background-color: burlywood;
-}
-
-main {
+body {
+  background-color: burlywood;
 }
 
 img {
-    margin: auto;
-    border: 5px solid black;
-    box-sizing: border-box ;
+  margin: auto;
+  border: 5px solid black;
+  box-sizing: border-box;
 }
 
-h1{
-  text-align: center;}
+h1 {
+  text-align: center;
+}
 
-a{
+a {
   text-decoration: none;
   color: black;
 }
@@ -34,11 +32,11 @@ a {
 .box {
   padding: 10pt;
   border: 1px solid #aaa;
-  background: #e6d8bd ;
+  background: #e6d8bd;
   border-radius: 15px;
 }
 
-nav{
+nav {
   text-align: center;
   display: grid;
   display: grid;
@@ -46,8 +44,8 @@ nav{
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
-@media screen and (max-width: 600px;){
-  .tarolo{
+@media screen and (max-width: 600px ) {
+  .tarolo {
     grid-template-columns: 1fr;
   }
 }
