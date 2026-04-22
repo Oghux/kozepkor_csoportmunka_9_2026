@@ -12,10 +12,6 @@ h1 {
   text-align: center;
 }
 
-a {
-  text-decoration: none;
-  color: black;
-}
 
 a {
   margin-right: 20pt;
@@ -27,6 +23,7 @@ a {
   display: grid;
   gap: 20pt;
   grid-template-columns: 1fr 1fr;
+  text-align: center;
 }
 
 .box {
