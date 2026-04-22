@@ -1,14 +1,14 @@
-body{
-    background-color: burlywood;
+body {
+  background-color: burlywood;
 }
 
-.tarolo {
+.bennetarolo {
   display: grid;
-  grid-template-columns: 1fr 1fr ;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 10px;
 }
 
-.benne{
+.benne {
   border: 2px solid black;
   padding: 15px;
   border-radius: 10px;
@@ -16,8 +16,29 @@ body{
   max-width: 500px;
 }
 
-@media screen and (max-width: 600px;){
-  .tarolo{
+a {
+  margin-right: 20pt;
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  display: grid;
+  gap: 20pt;
+  grid-template-columns: 1fr 1fr;
+  /* a dobozok közötti tér */
+}
+
+/* Doboz stílus (opcionális) */
+.box {
+  padding: 10pt;
+  border: 1px solid #aaa;
+  background: #e6d8bd;
+  border-radius: 15px;
+}
+
+@media screen and (max-width: 600px) {
+  .tarolo {
     grid-template-columns: 1fr;
   }
 }
