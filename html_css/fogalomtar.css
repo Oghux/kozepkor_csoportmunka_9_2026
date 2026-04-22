@@ -1,5 +1,9 @@
 body {
-  background-color: burlywood;
+  background-color: wheat;
+  margin: 0 20px 20px 20px; /* felül 0, jobb 20, alul 20, bal 20 */
+  padding: 20px;
+  border: 1px solid #aaa;
+  box-sizing: border-box;
 
 }
 
@@ -7,6 +11,11 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 10px;
+  margin: 0 20px 20px 20px; /* felül 0, jobb 20, alul 20, bal 20 */
+  padding: 20px;
+  border: 1px solid brown;
+  box-sizing: border-box;
+  background-color: #e6d8bd;
 }
 
 .benne {
@@ -27,10 +36,8 @@ a {
   display: grid;
   gap: 20pt;
   grid-template-columns: 1fr 1fr;
-  /* a dobozok közötti tér */
 }
 
-/* Doboz stílus (opcionális) */
 .box {
   padding: 10pt;
   border: 1px solid #aaa;
@@ -38,11 +45,11 @@ a {
   border-radius: 15px;
 }
 
-h1{
+h1 {
   text-align: center;
 }
 
-.container{
+.container {
   text-align: center;
 }
 
@@ -50,8 +57,8 @@ h1{
   .bennetarolo {
     grid-template-columns: 1fr;
   }
+
   .container {
     grid-template-columns: 1fr;
   }
 }
-
