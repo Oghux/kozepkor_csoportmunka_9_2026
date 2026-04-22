@@ -19,12 +19,6 @@ img {
   max-width: 500px;
 }
 
-@media screen and (max-width: 600px;){
-  .tarolo{
-    grid-template-columns: 1fr;
-  }
-}
-
 a {
   margin-right: 20pt;
   text-decoration: none;
@@ -44,3 +38,16 @@ a {
   background: #e6d8bd ;
   border-radius: 15px;
 }
+
+nav{
+  display: grid;
+  gap: 10pt;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+@media screen and (max-width: 600px;){
+  .tarolo{
+    grid-template-columns: 1fr;
+  }
+}
+
