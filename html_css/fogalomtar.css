@@ -1,5 +1,9 @@
 body {
   background-color: burlywood;
+  margin: 0 20px 20px 20px; /* felül 0, jobb 20, alul 20, bal 20 */
+  padding: 20px;
+  border: 1px solid #aaa;
+  box-sizing: border-box;
 
 }
 
