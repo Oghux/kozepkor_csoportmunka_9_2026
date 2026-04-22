@@ -28,3 +28,23 @@ a{
     grid-template-columns: 1fr;
   }
 }
+
+a {
+  margin-right: 20pt;
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  display: grid;
+  gap: 20pt;
+  grid-template-columns: 1fr 1fr; /* a dobozok közötti tér */
+}
+
+/* Doboz stílus (opcionális) */
+.box {
+  padding: 10pt;
+  border: 1px solid #aaa;
+  background: #e6d8bd ;
+  border-radius: 15px;
+}
