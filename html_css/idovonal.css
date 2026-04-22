@@ -14,10 +14,6 @@ img {
 h1{
   text-align: center;}
 
-nav{
-  text-align: center;
-  display: grid;
-}
 a{
   text-decoration: none;
   color: black;
@@ -43,6 +39,8 @@ a {
 }
 
 nav{
+  text-align: center;
+  display: grid;
   display: grid;
   gap: 10pt;
   grid-template-columns: 1fr 1fr 1fr 1fr;
