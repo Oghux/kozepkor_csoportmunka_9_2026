@@ -1,20 +1,71 @@
-*{
 
-}
-
-body{
-    background-color: green;
-}
-
-header{
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background: wheat;
     text-align: center;
 }
 
-dt{
-   text-decoration: underline; 
+/* A linkek közötti tér */
+a {
+  margin-right: 20pt;
 }
 
-a{
+/* A két doboz egymás mellé rendezése */
+.container {
+  display: grid;
+  gap: 20pt;
+  grid-template-columns: 1fr 1fr; /* a dobozok közötti tér */
+}
+
+/* Doboz stílus (opcionális) */
+.box {
+  padding: 10pt;
+  border: 1px solid #aaa;
+  background: #e6d8bd ;
+  border-radius: 15px;
+}
+
+
+.tarolo {
+    max-width: 1000px;
+    width: 90%;
+    margin: 0 auto;
+    background: #d8cbb3;
+    padding: 20px;
+    border: 2px solid #8b5a2b;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, serif;
+    color: #5a3b1e;
+    margin-top: 20px;
+}
+
+.oltozkodes, .kornyezet, .eletmod, .feladatok, .unnepek, .felelmek, .viselkedes, .szabalyok {
+    border: 2px solid #8b5a2b;
+    padding: 20px;
+    margin: 30px 0;
+    background: #e6d8bd;
+}
+
+p {
+    background: #efe4cc;
+    border: 2px solid #8b5a2b;
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 10px auto;
+    text-align: left;
+}
+
+a, .datum {
     text-decoration: none;
+    color: black;
 }
 
+@media (max-width: 600px) {
+    p {
+        font-size: 0.95rem;
+    }
+}

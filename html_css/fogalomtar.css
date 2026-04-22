@@ -1,0 +1,23 @@
+body{
+    background-color: burlywood;
+}
+
+.tarolo {
+  display: grid;
+  grid-template-columns: 1fr 1fr ;
+  gap: 10px;
+}
+
+.benne{
+  border: 2px solid black;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  max-width: 500px;
+}
+
+@media screen and (max-width: 600px;){
+  .tarolo{
+    grid-template-columns: 1fr;
+  }
+}
