@@ -11,18 +11,12 @@ img {
     box-sizing: border-box ;
 }
 
-.benne{
-  border: 2px solid black;
-  padding: 15px;
-  border-radius: 10px;
-  background-color: #f9f9f9;
-  max-width: 500px;
-}
+h1{
+  text-align: center;}
 
-@media screen and (max-width: 600px;){
-  .tarolo{
-    grid-template-columns: 1fr;
-  }
+a{
+  text-decoration: none;
+  color: black;
 }
 
 a {
@@ -34,13 +28,26 @@ a {
 .container {
   display: grid;
   gap: 20pt;
-  grid-template-columns: 1fr 1fr; /* a dobozok közötti tér */
+  grid-template-columns: 1fr 1fr;
 }
 
-/* Doboz stílus (opcionális) */
 .box {
   padding: 10pt;
   border: 1px solid #aaa;
   background: #e6d8bd ;
   border-radius: 15px;
+}
+
+nav{
+  text-align: center;
+  display: grid;
+  display: grid;
+  gap: 10pt;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+@media screen and (max-width: 600px;){
+  .tarolo{
+    grid-template-columns: 1fr;
+  }
 }
