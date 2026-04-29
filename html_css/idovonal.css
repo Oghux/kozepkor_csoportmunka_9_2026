@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body{
     background-color: burlywood;
     border: 3px solid red;
@@ -26,24 +25,6 @@ h1{
 a{
   text-decoration: none;
   color: black;
-=======
-body {
-  background-color: burlywood;
-}
-
-img {
-  margin: auto;
-  border: 5px solid black;
-  box-sizing: border-box;
-}
-
-h1 {
-  text-align: center;
-}
-
-
-a {
->>>>>>> 5a638ac998919f0bfa53cadee1bf6d49b19131e5
   margin-right: 20pt;
   text-decoration: none;
   color: black;
@@ -76,14 +57,9 @@ nav {
   border: 3px solid red;
 }
 
-<<<<<<< HEAD
 
 @media screen and (max-width: 600px){
   .tarolo{
-=======
-@media screen and (max-width: 600px ) {
-  .tarolo {
->>>>>>> 5a638ac998919f0bfa53cadee1bf6d49b19131e5
     grid-template-columns: 1fr;
   }
 }
