@@ -35,7 +35,7 @@ a {
 .container {
   display: grid;
   gap: 20pt;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
 }
 
 .box {
