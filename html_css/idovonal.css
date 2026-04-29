@@ -2,6 +2,18 @@ body {
   background-color: burlywood;
 }
 
+article{
+  display: grid;
+  grid-template-columns: 500px 1fr 1fr;
+  align-items: center;
+  gap: 20px;
+}
+
+article img{
+  width: 100%;
+  height: auto;
+}
+
 img {
   margin: auto;
   border: 5px solid black;
