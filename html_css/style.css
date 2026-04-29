@@ -5,20 +5,16 @@ body {
     text-align: center;
 }
 
-/* A linkek közötti tér */
 a {
     margin-right: 20pt;
 }
 
-/* A két doboz egymás mellé rendezése */
 .container {
     display: grid;
     gap: 20pt;
-    grid-template-columns: 1fr 1fr;
-    /* a dobozok közötti tér */
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
-/* Doboz stílus (opcionális) */
 .box {
     padding: 10pt;
     border: 1px solid #aaa;
