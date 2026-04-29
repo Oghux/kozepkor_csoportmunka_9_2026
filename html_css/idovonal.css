@@ -1,5 +1,12 @@
-body {
-  background-color: burlywood;
+body{
+    background-color: burlywood;
+    border: 3px solid red;
+    padding: 0px
+}
+
+main {
+  border: 3px solid red;
+  padding: 5px;
 }
 
 article{
@@ -15,17 +22,21 @@ article img{
 }
 
 img {
-  margin: auto;
-  border: 5px solid black;
-  box-sizing: border-box;
+    margin: auto;
+    border: 3px solid red;
+    padding: 5px;
+    box-sizing: border-box ;
 }
 
-h1 {
+h1{
   text-align: center;
+  border: 3px solid red;
+  padding: 5px;
 }
 
-
-a {
+a{
+  text-decoration: none;
+  color: black;
   margin-right: 20pt;
   text-decoration: none;
   color: black;
@@ -51,10 +62,16 @@ nav {
   display: grid;
   gap: 10pt;
   grid-template-columns: 1fr 1fr 1fr 1fr;
+  border: 3px solid red;
+  padding: 5px;
+}
+.szöveg{
+  border: 3px solid red;
 }
 
-@media screen and (max-width: 600px ) {
-  .tarolo {
+
+@media screen and (max-width: 600px){
+  .tarolo{
     grid-template-columns: 1fr;
   }
 }
